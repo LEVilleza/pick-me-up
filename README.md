@@ -1,16 +1,11 @@
-# gptest1
+# Pick-Me-Up
 
-A new Flutter project.
+A to-do-list application that combines productivity with RPG (role-playing game) elements.
 
-## Getting Started
+![photo_5823155061675641320_y](https://github.com/user-attachments/assets/b3e72b6c-a94e-4323-addb-7384c4ef2439)
 
-This project is a starting point for a Flutter application.
+# Installation
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Go to '[Releases](https://github.com/LEVilleza/pick-me-up/releases)' section and download apk of preferred version
+- Install apk
+- Launch application
